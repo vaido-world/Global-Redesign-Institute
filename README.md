@@ -14,6 +14,7 @@ Social redesign institute. Everything is public domain by default.
 2. What happens when multiple users try to edit the same document?
 3. Source control and version control
 4. How would you determine what is quality content and the document is not being broken maliciously?
+5. Reputation and point system? Allowed Reference points list?
 
 ## Open Source Software to use
 
