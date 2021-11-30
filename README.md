@@ -1,6 +1,8 @@
 # Global-Redesign-Institute
 Designing out of current social structure.
 
+Are you tired of Git, Linux, GNU, Chrome, Firefox, Windows, Apple, Lenovo, Toshiba and everyone else, well I am.
+
 ## Some silly idea about a website.
 > A real time wikipedia for software development.
 You can see when someone is writing something.
