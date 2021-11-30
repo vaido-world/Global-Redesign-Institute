@@ -19,6 +19,7 @@ Social redesign institute. Everything is public domain by default.
 7. Syntax checker for systemic english sentences?
 8. Thematic border zones, keywords checks? Scienctific field keywords checks?
 9. What about bitmap, images and graphics?
+10. Advanced recognition system with moderation?
 
 ## Open Source Software to use
 
