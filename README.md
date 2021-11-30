@@ -16,6 +16,7 @@ Social redesign institute. Everything is public domain by default.
 4. How would you determine what is quality content and the document is not being broken maliciously?
 5. Reputation and point system? Allowed Reference points list?
 6. Allowed systemic words list?
+7. Syntax checker for systemic english sentences?
 
 ## Open Source Software to use
 
