@@ -15,6 +15,7 @@ Social redesign institute. Everything is public domain by default.
 3. Source control and version control
 4. How would you determine what is quality content and the document is not being broken maliciously?
 5. Reputation and point system? Allowed Reference points list?
+6. Allowed systemic words list?
 
 ## Open Source Software to use
 
