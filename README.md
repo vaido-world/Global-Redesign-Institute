@@ -10,3 +10,7 @@ You can see when a document is created.
 Everything is animated. You can hop in and contribute.
 A social experience, a social programming, social development.
 Social redesign institute. Everything is public domain by default.
+1. Step make some kind of prototype where everyone can edit everything on a website and it is synced.
+
+
+## Open Source Software to use
