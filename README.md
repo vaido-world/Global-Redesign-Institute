@@ -17,6 +17,7 @@ Social redesign institute. Everything is public domain by default.
 5. Reputation and point system? Allowed Reference points list?
 6. Allowed systemic words list?
 7. Syntax checker for systemic english sentences?
+8. Thematic border zones? Scienctific field keywords checks?
 
 ## Open Source Software to use
 
