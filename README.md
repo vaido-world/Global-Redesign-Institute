@@ -14,3 +14,25 @@ Social redesign institute. Everything is public domain by default.
 
 
 ## Open Source Software to use
+
+# Programming languages
+* [D language](https://dlang.org/)  is a general-purpose programming language with static typing, systems-level access, and C-like syntax. [Boost license.](https://dlang.org/articles/faq.html#q5_2)
+
+* [Lua](https://www.lua.org/license.html) is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
+
+* [PHP](https://phplang.org/) Facebook has dedicated all copyright to this specification to the public domain worldwide under the CC0 Public Domain Dedication.
+
+# Database systems
+* [SQLite](https://www.sqlite.org/copyright.html) A Public Domain database engine. 
+  * SQLite runs as part of the app itself instead of part of a separate server process. 
+
+
+# 👨‍💻 Software hosting
+* sourcehut.org   the open source software development platform - the hacker's forge!
+   * [hg.sr.ht](https://hg.sr.ht/)
+   * [git.sr.ht](https://git.sr.ht/)
+
+* codeberg.org  is similar to GitHub, but Open Source and Free, like GitLab.
+   * Is based on gitea.io  which is licensed under MIT license.
+   * Review: https://www.youtube.com/watch?v=XSXLt-AMoOI&t=152s
+
