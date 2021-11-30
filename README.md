@@ -11,7 +11,9 @@ Everything is animated. You can hop in and contribute.
 A social experience, a social programming, social development.
 Social redesign institute. Everything is public domain by default.
 1. Step make some kind of prototype where everyone can edit everything on a website and it is synced.
-
+2. What happens when multiple users try to edit the same document?
+3. Source control and version control
+4. How would you determine what is quality content and the document is not being broken maliciously?
 
 ## Open Source Software to use
 
