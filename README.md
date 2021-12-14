@@ -31,9 +31,9 @@ Social redesign institute. Everything is public domain by default.
 * [PHP](https://phplang.org/) Facebook has dedicated all copyright to this specification to the public domain worldwide under the CC0 Public Domain Dedication.
 
 # Database systems
+* [PostgreSQL](https://www.postgresql.org/about/licence/) An Open Source object-relational database system 
 * [SQLite](https://www.sqlite.org/copyright.html) A Public Domain database engine. 
   * SQLite runs as part of the app itself instead of part of a separate server process. 
-* [PostgreSQL](https://www.postgresql.org/about/licence/) An Open Source object-relational database system 
 
 # 👨‍💻 Software hosting
 * sourcehut.org   the open source software development platform - the hacker's forge!
