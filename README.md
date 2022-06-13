@@ -36,11 +36,11 @@ Social redesign institute. Everything is public domain by default.
   * SQLite runs as part of the app itself instead of part of a separate server process. 
 
 # 👨‍💻 Software hosting
-* sourcehut.org   the open source software development platform - the hacker's forge!
+* [sourcehut.org](https://sourcehut.org/)   the open source software development platform - the hacker's forge!
    * [hg.sr.ht](https://hg.sr.ht/)
    * [git.sr.ht](https://git.sr.ht/)
 
-* codeberg.org  is similar to GitHub, but Open Source and Free, like GitLab.
+* [codeberg.org](https://codeberg.org/)  is similar to GitHub, but Open Source and Free, like GitLab.
    * Is based on gitea.io  which is licensed under MIT license.
    * Review: https://www.youtube.com/watch?v=XSXLt-AMoOI&t=152s
 
