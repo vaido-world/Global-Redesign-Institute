@@ -44,3 +44,31 @@ Social redesign institute. Everything is public domain by default.
    * Is based on gitea.io  which is licensed under MIT license.
    * Review: https://www.youtube.com/watch?v=XSXLt-AMoOI&t=152s
 
+# 🪔 Social Media
+* [Mastodon](https://mastodon.online/@gobolinux)  Follow friends and discover new ones. Twitter Alternative.
+* [fosscord.com](https://fosscord.com/)     Open Source Discord Clone/Alternative.
+
+
+# Linux desktop environments
+* [GNOME](https://www.makeuseof.com/features-gnome/) is a free and open-source desktop environment for Unix-like operating systems.
+
+# Text
+## 📝 Text editors
+* [GNU Emacs](https://www.gnu.org/s/emacs/) — [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html) software
+
+# 📱 Communication
+* [Signal ]( https://signal.org/en/) the privacy oriented messaging application, open source, cross-platform.
+
+# Media
+## 🖼️ Image and Graphics Editors
+* [Inkscape](https://inkscape.org/), vector graphics editor 
+
+## 🖵 Screen Recording
+* [OBS (Open Broadcaster Software)](https://obsproject.com/), cross-platform screen recorder.
+
+## 🎼 Music Production
+* **Linux MultiMedia Studio** https://lmms.io/
+
+##  🎞️ Video editors
+* [Kdenlive](https://kdenlive.org/)
+* [Olive](https://olivevideoeditor.org/download.php)
