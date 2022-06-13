@@ -49,9 +49,6 @@ Social redesign institute. Everything is public domain by default.
 * [fosscord.com](https://fosscord.com/)     Open Source Discord Clone/Alternative.
 
 
-# Linux desktop environments
-* [GNOME](https://www.makeuseof.com/features-gnome/) is a free and open-source desktop environment for Unix-like operating systems.
-
 # Text
 ## 📝 Text editors
 * [GNU Emacs](https://www.gnu.org/s/emacs/) — [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.html) software
@@ -72,3 +69,6 @@ Social redesign institute. Everything is public domain by default.
 ##  🎞️ Video editors
 * [Kdenlive](https://kdenlive.org/)
 * [Olive](https://olivevideoeditor.org/download.php)
+
+# Linux desktop environments
+* [GNOME](https://www.makeuseof.com/features-gnome/) is a free and open-source desktop environment for Unix-like operating systems.
