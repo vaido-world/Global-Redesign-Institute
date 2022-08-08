@@ -77,3 +77,8 @@ Social redesign institute. Everything is public domain by default.
 https://youtu.be/jNgIdTUmzEQ?t=316  
 https://handwiki.org/wiki/Mill_architecture  
 https://millcomputing.com/  
+
+# English Language Dictionary and Grammar
+ * onomasiological dictionary
+   * [Roget's Thesaurus of English Words and Phrases 1779-1869](https://www.gutenberg.org/ebooks/10681)
+   * [THE GRAMMAR OF ENGLISH GRAMMARS](https://archive.org/details/THEGRAMMAROFENGLISHGRAMMARS)
