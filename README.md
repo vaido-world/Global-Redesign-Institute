@@ -72,3 +72,8 @@ Social redesign institute. Everything is public domain by default.
 
 # Linux desktop environments
 * [GNOME](https://www.makeuseof.com/features-gnome/) is a free and open-source desktop environment for Unix-like operating systems.
+
+# Processor Architecture
+https://youtu.be/jNgIdTUmzEQ?t=316  
+https://handwiki.org/wiki/Mill_architecture  
+https://millcomputing.com/  
